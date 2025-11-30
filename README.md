@@ -1,4 +1,4 @@
-# 🏷️ Metrocar Funnel Analysis (Google Sheets + SQL + Power BI + DAX)
+# 🏷️ Statistic_Analysis (Google Sheets + Python)
 
 ## 📬 Contact
 If you’d like to connect or discuss data visualization and analytics:
